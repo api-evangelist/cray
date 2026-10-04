@@ -46,7 +46,7 @@ tags:
 - High Performance Computing
 - HPC
 - Hardware
-- Data-Center
+- Data Center
 - HPE
 - Acquired
 tags_raw:
@@ -58,6 +58,7 @@ tags_raw:
 - Data Center
 - HPE
 - Acquired
+- Data-Center
 apis: []
 maintainers:
 - FN: Kin Lane
